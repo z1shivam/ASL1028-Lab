@@ -19,3 +19,5 @@ e = num%10
 num //= 10
 
 print("The sum of the digit is ",(a+b+c+d+e))
+
+print("Checking a feature")
