@@ -30,5 +30,3 @@ elif user_action == "scissors":
         print("i Wonnn!!!!")
     if computer_action == "paper":
         print("You wonnnnnnnn")
-
->>>>>>> 09f4bcc5a458c286c9b5cd5704092d120df95c91
