@@ -5,3 +5,4 @@ for i in range(0,size):
 
 for i in range(size,-1,-1):
     print(" "*(size-i) + "*" + " "*(2*i - 1) + "*"*(i != 0))
+    
