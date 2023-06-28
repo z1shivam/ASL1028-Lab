@@ -6,8 +6,6 @@ if user_input == 1: user_action = "rock"
 if user_input == 2: user_action = "paper"
 if user_input == 3: user_action = "scissors"
 
-
-
 possible_actions = ["rock", "paper","scissors"]
 computer_action =  random.choice(possible_actions)
 
