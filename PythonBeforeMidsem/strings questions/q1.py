@@ -1,5 +1,5 @@
 str = input("Enter a string")
-str = str.lower()
+str = str.lower()           
 
 if str == str[::-1]:
     print("string is pallindrome")
